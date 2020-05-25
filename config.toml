@@ -71,9 +71,9 @@ author = "Debatrayee Sarkar"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 # Contact info
-#mobile = "+90 000 333 22"
-email = "exmaple@ymail.com"
-address = "Siliguri, Darjeeling, WB"
+mobile = ""
+email = "debatrayee2020@gmail.com"
+address = "Siliguri, Darjeeling, 734005, WB, India"
 # Contact Form Action
 contact_form_action = "#"
 # Google Analitycs
@@ -90,16 +90,22 @@ access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
 # social site
 [[params.social]]
 icon = "ti-facebook"
-URL = "#"
+URL = "https://www.facebook.com/debatrayee?ref=bookmarks"
+
+#[[params.social]]
+#icon = "ti-twitter-alt"
+#URL = "#"
+
+#[[params.social]]
+#icon = "ti-linkedin"
+#URL = "#"
+
+#[[params.social]]
+#icon = "ti-github"
+#URL = "#"
+
+
 
 [[params.social]]
-icon = "ti-twitter-alt"
-URL = "#"
-
-[[params.social]]
-icon = "ti-linkedin"
-URL = "#"
-
-[[params.social]]
-icon = "ti-github"
-URL = "#"
+icon = "ti-instagram"
+URL = "https://www.instagram.com/sarkardebatrayee/?hl=en"
