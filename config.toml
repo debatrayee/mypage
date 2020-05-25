@@ -56,7 +56,7 @@ weight = 3
 
 # deult parameter
 [params]
-logo = "images/logo.png"
+logo = "images/mylogo.png"
 home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "2"
