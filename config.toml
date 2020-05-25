@@ -5,6 +5,7 @@ title = "Debatrayee | Personal Blog "
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
+publishDir = "docs"
 
 # output
 [outputs]
