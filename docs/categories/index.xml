@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Debatrayee | Personal Blog </title>
-    <link>https://examplesite.org/categories/</link>
+    <link>https://debatrayee.github.io/mypage/categories/</link>
     <description>Recent content in Categories on Debatrayee | Personal Blog </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="https://examplesite.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://debatrayee.github.io/mypage/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Article</title>
-      <link>https://examplesite.org/categories/article/</link>
+      <link>https://debatrayee.github.io/mypage/categories/article/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/categories/article/</guid>
+      <guid>https://debatrayee.github.io/mypage/categories/article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fashion</title>
-      <link>https://examplesite.org/categories/fashion/</link>
+      <link>https://debatrayee.github.io/mypage/categories/fashion/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/categories/fashion/</guid>
+      <guid>https://debatrayee.github.io/mypage/categories/fashion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>https://examplesite.org/categories/food/</link>
+      <link>https://debatrayee.github.io/mypage/categories/food/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/categories/food/</guid>
+      <guid>https://debatrayee.github.io/mypage/categories/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nature</title>
-      <link>https://examplesite.org/categories/nature/</link>
+      <link>https://debatrayee.github.io/mypage/categories/nature/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/categories/nature/</guid>
+      <guid>https://debatrayee.github.io/mypage/categories/nature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophy</title>
-      <link>https://examplesite.org/categories/philosophy/</link>
+      <link>https://debatrayee.github.io/mypage/categories/philosophy/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/categories/philosophy/</guid>
+      <guid>https://debatrayee.github.io/mypage/categories/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Valuable Idea</title>
-      <link>https://examplesite.org/categories/valuable-idea/</link>
+      <link>https://debatrayee.github.io/mypage/categories/valuable-idea/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/categories/valuable-idea/</guid>
+      <guid>https://debatrayee.github.io/mypage/categories/valuable-idea/</guid>
       <description></description>
     </item>
     
