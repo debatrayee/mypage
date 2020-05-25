@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Debatrayee | Personal Blog </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2020 22:48:25 +0600</lastBuildDate>
     
 	<atom:link href="https://debatrayee.github.io/mypage/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fashion</title>
+      <link>https://debatrayee.github.io/mypage/categories/fashion/</link>
+      <pubDate>Mon, 25 May 2020 22:48:25 +0600</pubDate>
+      
+      <guid>https://debatrayee.github.io/mypage/categories/fashion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Article</title>
@@ -17,15 +26,6 @@
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
       <guid>https://debatrayee.github.io/mypage/categories/article/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fashion</title>
-      <link>https://debatrayee.github.io/mypage/categories/fashion/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://debatrayee.github.io/mypage/categories/fashion/</guid>
       <description></description>
     </item>
     

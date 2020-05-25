@@ -1,20 +1,20 @@
 ---
-title: "Charming Evening Field"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
+title: "Ten Best Crop Top for Indian Girls in summer 2020"
+date: 2020-05-25T22:48:25+06:00
+description: "Crop Top for summer"
 type: "post"
-image: "images/masonary-post/post-2.jpg"
+image: "images/firstblog/thumbnail.jpg"
 categories: 
-  - "Food"
+  - "Fashion"
 tags:
-  - "Photos"
-  - "Food"
+  - "Dress"
+  - "Crop Top"
 ---
 
-Go get ready girls!! Think about what I'm gonna tell you about??!!  Let's
+Go get ready girls!! Think about what I'm gonna tell you about!! Let's
 break the suspense!! this is all about our one and only summer Trends style
 crop tops which has stolen every girl's heart and obviously we Desire that one
-day our wardrobe will be filled with all flattering style crop tops.  So just
+day our wardrobe will be filled with all flattering style crop tops. So just
 smash your fear of wearing crop tops and get ready to wear these trendy tops.
 They come in all shapes and sizes. If you want to let me know about Sampriti
 crop tops let's not worry girls!! Here I'm giving you some best test varieties

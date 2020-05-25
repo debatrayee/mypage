@@ -68,8 +68,8 @@ preloader = true
 search = true
 # about author
 author = "Debatrayee Sarkar"
-author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+author_image = "images/my_img.png"
+bio = "I'm a Freelance Blogger based in India, focusing on fashion, food, and travel"
 # Contact info
 mobile = ""
 email = "debatrayee2020@gmail.com"
