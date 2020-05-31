@@ -5,9 +5,9 @@ description: "Crop Top for summer"
 type: "post"
 image: "images/firstblog/thumbnail.jpg"
 categories: 
-  - "Fashion"
-tags:
   - "Dress"
+tags:
+  - "Fashion"
   - "Crop Top"
 ---
 
