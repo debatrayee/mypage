@@ -75,7 +75,7 @@ mobile = ""
 email = "debatrayee2020@gmail.com"
 address = "Siliguri, Darjeeling, 734005, WB, India"
 # Contact Form Action
-contact_form_action = "#"
+contact_form_action = "https://getform.io/f/826e3bfe-54c6-430c-84d3-41bfa746599e"
 # Google Analitycs
 google_analitycs_id = "Your ID"
 disqusShortname = "debatrayees-blog"
