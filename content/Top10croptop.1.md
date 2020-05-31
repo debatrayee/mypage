@@ -16,8 +16,8 @@ break the suspense!! this is all about our one and only summer Trends style
 crop tops which has stolen every girl's heart and obviously we Desire that one
 day our wardrobe will be filled with all flattering style crop tops. So just
 smash your fear of wearing crop tops and get ready to wear these trendy tops.
-They come in all shapes and sizes. If you want to let me know about Sampriti
-crop tops let's not worry girls!! Here I'm giving you some best test varieties
+They come in all shapes and sizes. If you want to let me know about some pretty
+crop tops let's not worry girls!! Here I'm giving you some best varieties
 and collections of Crop tops that will let you figure out your personal best.
 
 
@@ -25,7 +25,7 @@ and collections of Crop tops that will let you figure out your personal best.
 
 Be the sassy girl. This top is very trendy fits good comfortable regularly
 usable perfect for summer. This is very feminine and you can wear it easily in
-college friends Aarti and wherever you want to. You can find it works
+college friends party and wherever you want to. You can find it works
 amazingly  Tucked into high waisted skirt and jeans. Ruffles have enough
 stiffness to keep them up and not floppy. So girls let's rock on this dress.
 

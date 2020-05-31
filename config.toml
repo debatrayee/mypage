@@ -78,6 +78,7 @@ address = "Siliguri, Darjeeling, 734005, WB, India"
 contact_form_action = "#"
 # Google Analitycs
 google_analitycs_id = "Your ID"
+disqusShortname = "debatrayees-blog"
 # copyright
 copyright = "Copyright &copy; 2020 Debatrayee Sarkar"
 
