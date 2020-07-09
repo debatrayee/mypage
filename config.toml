@@ -1,5 +1,5 @@
 # default config
-baseURL = "https://debatrayee.com/"
+baseURL = "https://debatrayee.github.io/mypage/"
 languageCode = "en-us"
 title = "Debatrayee | Personal Blog "
 theme = "parsa-hugo"
